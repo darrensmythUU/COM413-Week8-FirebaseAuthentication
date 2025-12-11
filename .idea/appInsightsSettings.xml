@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.firebaseauthentication" />
+                  <option name="mobileSdkAppId" value="1:591344062200:android:6cd9cb48b9c8136fcd750d" />
+                  <option name="projectId" value="fir-authentication25-b4589" />
+                  <option name="projectNumber" value="591344062200" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
